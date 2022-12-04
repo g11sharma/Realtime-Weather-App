@@ -1,0 +1,25 @@
+
+14faaee8d1e14442839234025220112
+
+
+http://api.weatherapi.com/v1/current.json?key=14faaee8d1e14442839234025220112&q=delhi&aqi=no
+
+
+
+
+===========
+
+open weather api key
+
+
+6c6a1067c7ae0b0972454edfd0cfc174
+
+https://api.openweathermap.org/data/2.5/weather?q={pune}&appid={6c6a1067c7ae0b0972454edfd0cfc174}
+
+
+
+
+
+
+
+
